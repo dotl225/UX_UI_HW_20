@@ -1,0 +1,5 @@
+/* add your css styles here! */
+.jumbotron {
+    background-image: url(image/Beachpicture.jpg);
+    background-size: cover;
+}
